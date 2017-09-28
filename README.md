@@ -26,7 +26,7 @@ Phần mềm được viết trên nền tảng C# .NET với giao diện đồ 
   - **Database and WebService**:
 
 
-  - **FrLogin**:
+  - **LoginWindow**:
     + chưa xong : đăng nhập cho nhân viên và quản lý
     + chưa xong : cập nhật thêm chức năng thay đổi cấu hình đăng nhập database, sau khi chỉnh sửa và đăng nhập thành công, chương trình tự động lưu dữ liệu của database đó (lần sau không cần điều chỉnh nữa). Thông tin database sẽ được lưu vào databaseinfo.txt
     + chưa xong : cho phép người dùng mở cả Window admin và Window employee và Window warehouse song song, nhưng mỗi frame chỉ được mở một lần 
